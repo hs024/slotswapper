@@ -30,7 +30,7 @@ This app consist of two folder
 ## Setup
 ```
 1. Clone repo:
-   git clone <repo_url>
+   git clone https://github.com/hs024/slotswapper
    cd slotsswapper
 2. Create .env file in both folders :
     VITE_API_URL=http://127.0.0.1:8000 // in frontend
