@@ -12,6 +12,7 @@ SlotSwapper is a peer-to-peer time-slot scheduling app. Users can mark their bus
 - **Requests**: View incoming/outgoing swap requests, accept/reject them.
 - **State Management**: Dynamic updates without page refresh.
 - **Delete slot** : Delete the slot 
+- **Calender** : Show the Slot on calender
 ---
 
 ## Tech Stack
